@@ -1,5 +1,7 @@
 # 🚀 Programação do Zero: Guia Prático para se Encontrar na Área
 
+<img width="1308" height="332" alt="Image" src="https://github.com/user-attachments/assets/af1c1a2f-564c-4a72-81b6-663c2a886f16" />
+
 ## 📖 Sobre este repositório
 
 Este repositório foi criado com o objetivo de ajudar pessoas que estão começando na programação a entender:
